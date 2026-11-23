@@ -1,4 +1,4 @@
-def trace_binding() -> dict:
+def trace_bindings() -> dict:
     first = [10, 20]
     second = first
     first = [30, 40]
